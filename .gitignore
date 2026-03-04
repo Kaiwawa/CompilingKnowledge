@@ -1,4 +1,5 @@
 .git/
+.gitignore
 melhorias.md
 To-do_*.md
 variables.tf
