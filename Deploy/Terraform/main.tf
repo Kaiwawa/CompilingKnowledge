@@ -5,16 +5,12 @@ terraform {
       version = ">=5.87.0"
     }
   }
-    backend "s3" {
+  backend "s3" {
     bucket = "descomplicando-terraform-rbaumann"
     key    = "terraform.tfstate"
     region = "us-east-1"
   }
 }
-provider "aws" { 
-  region = "us-east-1"
-}
-provider "aws" { 
-  alias = "east"
+provider "aws" {
   region = "us-east-1"
 }

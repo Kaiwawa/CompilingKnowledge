@@ -10,3 +10,5 @@ variable "controllers_subnet_id" {
 }
 variable "controllers_sg_id" {
 }
+variable "region" {
+}

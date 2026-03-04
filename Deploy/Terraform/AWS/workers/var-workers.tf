@@ -10,3 +10,5 @@ variable "workers_subnet_id" {
 }
 variable "workers_sg_id" {
 }
+variable "region" {
+}
