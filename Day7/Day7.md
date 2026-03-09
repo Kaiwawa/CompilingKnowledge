@@ -1,0 +1,1 @@
+On Sunday, I rested and started planning the week. Currently, I'm focusing on my AWS Certification, so this project will be a bit delayed 😕.
